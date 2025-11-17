@@ -1,5 +1,4 @@
 # Ignore data folders
-/data/
 /data_clean/
 /data_raw/
 # Ignore common notebook checkpoints and python caches
