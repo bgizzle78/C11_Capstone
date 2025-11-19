@@ -1,4 +1,4 @@
-# 🌍 World Happiness Report – NewForce - Cohort 11 Capstone Project
+# 🌍 Global Happiness – NewForce - Cohort 11 Capstone Project
 
 ## 📋 Table of Contents
 1. 🎯 Motivation  
@@ -33,7 +33,7 @@ Happiness is not only a personal concern but also a societal one, influencing pr
 
 ### 📦 Data Sources
 I combined:
-- 🌈 World Happiness Report  
+- 🌈 World Happiness Report (Country happiness scores and rankings)
 - 🌐 World Bank Indicators (GDP, health expenditure, education expenditure)  
 - 🗺️ World Bank Country Metadata (regions, income groups, ISO codes)
 
@@ -51,7 +51,6 @@ I combined:
 - Country name mismatches 🏳️  
 - Messy World Bank indicators requiring heavy reshaping 🔄  
 - Sparse or inconsistent years 📉  
-- Power BI mapping issues 🗺️  
 - WHR column inconsistencies 🧩  
 
 ---
