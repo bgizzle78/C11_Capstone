@@ -1,6 +1,6 @@
-# Ignore data folders
-/data_clean/
+# Ignore raw data folders
 /data_raw/
+
 # Ignore common notebook checkpoints and python caches
 .ipynb_checkpoints/
 __pycache__/
