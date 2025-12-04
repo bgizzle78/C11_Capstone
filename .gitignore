@@ -8,3 +8,9 @@ __pycache__/
 *.pyc
 .vscode/
 .env
+
+# Ignore video files
+*.mp4
+*.mov
+*.mkv
+*.avi
